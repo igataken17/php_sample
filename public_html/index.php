@@ -1,6 +1,6 @@
 <?php
 
-echo "hello, Kensuke Igata";
-echo "hoge";
+echo "hello, Kensuke Igata!!!!";
+
 
 ?>
